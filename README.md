@@ -19,17 +19,23 @@ Anem a tractar un dels casos d'hibridació moderna en una de les famoses emprese
 
 Un dels casos més emblemàtics de l'empresa Nintendo el trobem en la sisena consola, un dels dispositius més petits d'aquesta, la famosa **Nintendo WII**, la qual va superar rècords de vendes i durant diversos mesos es va enfrontar a un inesperat desabastament.
 
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Wii_console.png" alt="Imatge extreta de la Wikipedia" width="500"/>
+
 Nintendo WII, la successora de la GameCube, va aportar una nova forma de jugar a l'usuari. Aquesta tenia l'especial característica de ser compatible amb el *software* de la GameCube i poder utilitzar els seus controladors, targetes de memòria i, fins i tot, connectar un Game Boy Advance amb el *link cable* quan era necessari.
 
 Amb aquesta consola van buscar un altre tipus d'experiència per a jugar i inclús treure profit als comandaments a distància, implementant el videojoc amb una nova forma de fer exercici físic. Entre els accessoris que potenciaven la part *fitness* de la plataforma i ajudaven a obtenir una millor experiència trobem: el rifle d'assalt, sabre làser, volant, guants de boxa, raquetes, peses, banda de mans lliures per al Wiimote, bat de beisbol i la Wii Fit.
 
 Un altre cas d'hibridació més recent en la mateixa empresa, es troba en la nova consola híbrida de la família Switch: la **Nintendo Swithc Oled**.
+  
+<p align="center"><img src="https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/None_f46f910f-110d-4f1c-825d-9009c4ebc7b2.jpg" alt="Imatge extreta de Back Market" width="500"/> 
 
 Aquesta consola es va començar a vendre com un equip de sobretaula que et pots emportar al carrer i ha acabat sent una consola portàtil que pots connectar a la televisió. Amb tanta hibridació, ja és gairebé impossible diferenciar la frontera entre un equip de sobretaula i un portàtil.
 
 ## Hibridació en APP Snapchat
 
 Un altre cas d'hibridació moderna el trobem en la famosa APP: **Snapchat**. 
+ 
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c4/Snapchat_logo.svg/1200px-Snapchat_logo.svg.png" alt="Imatge extreta de la Wikipedia" width="400"/>
 
 Aquesta aplicació mòbil per a dispositius Android i iOS desenvolupada per l'empresa pública Snap i dirigida pel cofundador Evan Spiegel, va canviar la forma de la comunicació en línia, on totes les xarxes socials es basaven en l'escriptori, publicant estats, tweets, fotografies, i tot això, registrat en línia per a poder veure-ho sempre i comenta-ho. Snapchat va implementar una nova forma de comunicació instantània i efímera, on pots enviar una fotografia, vídeo o missatge, i aquest estarà disponible per al receptor un breu període de temps, abans que es torni inaccessible per sempre. Aquesta naturalesa temporal o efímera de l'aplicació es va dissenyar originalment per fomentar un flux d'interacció més natural.
 
